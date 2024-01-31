@@ -374,7 +374,7 @@ const characterList = [
       爆傷: "122.2%",
       healed: "1.1%",
       protected: "1.1%",
-      luck: "1%",
+      luck: "1%"
     },
     skills: {
       Sp: {
